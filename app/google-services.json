@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "894704350422",
+    "project_id": "book-borrowing-app-685d2",
+    "storage_bucket": "book-borrowing-app-685d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894704350422:android:0ec20a614230fcd934c577",
+        "android_client_info": {
+          "package_name": "com.example.bookborrowingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894704350422-6k0i07rb5fv5ulvn0tls31f2crn3b3n0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookborrowingapp",
+            "certificate_hash": "c5fdc76b0c226315e42161189046bc7ecebe8e33"
+          }
+        },
+        {
+          "client_id": "894704350422-ntkf8vdgrq27slfdgednhpcfl5m2eafq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQiR1bvGnz47gQVGvcP_TaUB7bJOEBvAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894704350422-ntkf8vdgrq27slfdgednhpcfl5m2eafq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
